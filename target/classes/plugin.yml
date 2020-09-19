@@ -1,0 +1,6 @@
+name: DangerLobby
+version: 1.0
+main: com.br.rededanger.rivaille.Danger
+authors: [Rivaille000]
+commands:
+  build:
